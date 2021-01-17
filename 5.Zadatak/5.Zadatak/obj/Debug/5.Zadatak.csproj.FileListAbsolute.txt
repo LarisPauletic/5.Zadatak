@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\5.Zadatak\5.Zadatak\bin\Debug\5.Zadatak.exe.config
+C:\Users\Laris\source\repos\5.Zadatak\5.Zadatak\bin\Debug\5.Zadatak.exe
+C:\Users\Laris\source\repos\5.Zadatak\5.Zadatak\bin\Debug\5.Zadatak.pdb
+C:\Users\Laris\source\repos\5.Zadatak\5.Zadatak\obj\Debug\5.Zadatak.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\5.Zadatak\5.Zadatak\obj\Debug\5.Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\5.Zadatak\5.Zadatak\obj\Debug\5.Zadatak.exe
+C:\Users\Laris\source\repos\5.Zadatak\5.Zadatak\obj\Debug\5.Zadatak.pdb
